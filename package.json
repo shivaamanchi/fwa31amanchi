@@ -12,5 +12,18 @@
     "http-errors": "^1.8.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaamanchi/fwa31amanchi.git"
+  },
+  "author": "Shiva Kumar Amanchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivaamanchi/fwa31amanchi/issues"
+  },
+  "homepage": "https://github.com/shivaamanchi/fwa31amanchi#readme",
+  "description": ""
 }
