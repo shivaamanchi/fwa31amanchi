@@ -1,3 +1,3 @@
 # fwa31amanchi
 
-Do what you can, with what you have, where you are.
+If you can dream it, you can do it.
